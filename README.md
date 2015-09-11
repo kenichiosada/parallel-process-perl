@@ -17,7 +17,7 @@ Result:
 ### Fibonacci
 
 Calculate total of 10000 fibonacci numbers.  
-Parallel processing uses 8 processes, calculatin 1250 times each.  
+Parallel processing uses 8 processes, calculating 1250 times each.  
 
 Result:  
 
